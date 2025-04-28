@@ -16,4 +16,4 @@ google-auth>=2.15.0
 protobuf
 tqdm
 typing-extensions
-
+langchain-huggingface==0.1.2
