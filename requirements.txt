@@ -18,4 +18,3 @@ protobuf
 tqdm
 typing-extensions
 langchain-community==0.0.35
-langchain-community==0.0.337
