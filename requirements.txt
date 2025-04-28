@@ -2,7 +2,7 @@ fastapi==0.115.12
 uvicorn==0.24.0
 python-multipart==0.0.6
 sqlalchemy==2.0.23
-pydantic==1.10.13
+pydantic== 2.11.3
 langchain==0.3.24
 langchain-community==0.3.22
 pypdf==3.17.1
