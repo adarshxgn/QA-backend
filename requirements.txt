@@ -17,5 +17,5 @@ google-auth>=2.15.0
 protobuf
 tqdm
 typing-extensions
-langchain==0.0.337
+langchain-community==0.0.35
 langchain-community==0.0.337
