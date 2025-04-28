@@ -7,7 +7,7 @@ langchain==0.3.24
 langchain-community==0.3.22
 pypdf==3.17.1
 python-dotenv==1.0.0
-google-generativeai>=0.3.0  
+google-generativeai>=0.3.0
 faiss-cpu==1.7.4
 google.ai.generativelanguage==0.6.15
 google-api-core>=2.11.0
@@ -16,3 +16,4 @@ google-auth>=2.15.0
 protobuf
 tqdm
 typing-extensions
+
